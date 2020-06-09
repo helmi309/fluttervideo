@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953163182683",
+    "firebase_url": "https://admob-6d04e.firebaseio.com",
+    "project_id": "admob-6d04e",
+    "storage_bucket": "admob-6d04e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953163182683:android:c0c46908a252f7b1ab457e",
+        "android_client_info": {
+          "package_name": "com.story.videolucu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953163182683-6nu3d5jldd16tnge5kfmmouneqo1r5gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFjAuj4MTvRylGy6NR6XIhIIHpfpYRhRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953163182683-6nu3d5jldd16tnge5kfmmouneqo1r5gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
